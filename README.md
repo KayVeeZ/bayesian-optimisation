@@ -34,7 +34,7 @@ To explore this project, follow the steps below:
     ```
 4. Open the notebook in Jupyter:
     ```sh
-    jupyter notebook bayesian-optimisation-answers.ipynb
+    jupyter notebook bayesian-optimisation.ipynb
     ```
 
 ## Project Structure
